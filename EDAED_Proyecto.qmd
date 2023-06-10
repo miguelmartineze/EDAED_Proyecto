@@ -1,0 +1,14 @@
+---
+title: "EDAED_Proyecto"
+format: html
+editor: visual
+---
+
+```{r}
+BDE <- read_csv("BDE.csv")
+```
+
+```{r}
+summary(BDE)
+```
+
