@@ -1,0 +1,342 @@
+Fecha,Texto_IA,Uso_chatgpt,Nivel_Academico,Forma_pregunta,Modalidad
+6/3/2023 8:13:51,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 9:43:43,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 9:51:25,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 9:53:14,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 9:57:39,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 9:59:46,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 10:00:26,Texto uno,Si,Bachiller,previo,virtual
+6/3/2023 10:09:36,Texto uno,No,Estudiante universitario,previo,virtual
+6/3/2023 10:20:48,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 10:23:16,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 10:24:11,Texto dos,No,Bachiller,previo,virtual
+6/3/2023 10:24:42,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 10:29:02,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 10:29:12,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 10:31:07,Texto uno,No,Estudiante universitario,previo,virtual
+6/3/2023 10:32:44,Texto uno,Si,Profesional graduado,previo,virtual
+6/3/2023 10:34:14,Texto dos,Si,Bachiller,previo,virtual
+6/3/2023 10:36:56,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 10:37:27,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 10:39:11,Texto dos,Si,Profesional graduado,previo,virtual
+6/3/2023 10:41:41,Texto uno,No,Bachiller,previo,virtual
+6/3/2023 10:42:55,Texto dos,Si,Bachiller,previo,virtual
+6/3/2023 10:43:33,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 11:24:32,Texto uno,Si,Bachiller,previo,virtual
+6/3/2023 11:56:12,Texto dos,Si,Profesional graduado,previo,virtual
+6/3/2023 11:57:35,Texto uno,No,Estudiante universitario,previo,virtual
+6/3/2023 12:19:14,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:19:56,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:22:31,Texto uno,No,Estudiante universitario,previo,virtual
+6/3/2023 12:23:27,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:25:01,Texto dos,Si,Profesional graduado,previo,virtual
+6/3/2023 12:27:20,Texto dos,Si,Profesional graduado,previo,virtual
+6/3/2023 12:28:09,Texto dos,Si,Profesional graduado,previo,virtual
+6/3/2023 12:28:47,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:29:27,Texto uno,Si,Profesional graduado,previo,virtual
+6/3/2023 12:32:55,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:33:38,Texto dos,Si,Profesional graduado,previo,virtual
+6/3/2023 12:34:47,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:35:51,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:36:21,Texto uno,No,Profesional graduado,previo,virtual
+6/3/2023 12:36:49,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:38:51,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:39:23,Texto uno,No,Estudiante universitario,previo,virtual
+6/3/2023 12:40:11,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:40:49,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:42:01,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:42:36,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:43:06,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:43:49,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:44:29,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:44:59,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 12:45:33,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 13:24:09,Texto dos,No,Profesional graduado,previo,virtual
+6/3/2023 13:25:02,Texto dos,Si,Bachiller,previo,virtual
+6/3/2023 13:31:11,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 13:31:46,Texto uno,No,Estudiante universitario,previo,virtual
+6/3/2023 13:32:21,Texto dos,No,Estudiante universitario,previo,virtual
+6/3/2023 13:34:23,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 13:35:02,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 13:35:35,Texto dos,Si,Bachiller,previo,virtual
+6/3/2023 13:36:10,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 13:39:21,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 13:53:41,Texto dos,Si,Bachiller,previo,virtual
+6/3/2023 13:54:15,Texto uno,No,Estudiante universitario,previo,virtual
+6/3/2023 13:59:21,Texto uno,No,Bachiller,previo,virtual
+6/3/2023 14:00:08,Texto uno,No,Bachiller,previo,virtual
+6/3/2023 14:00:45,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 14:01:12,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 14:01:49,Texto uno,Si,Profesional graduado,previo,virtual
+6/3/2023 14:02:22,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 14:17:32,Texto dos,Si,Bachiller,previo,virtual
+6/3/2023 14:56:04,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 15:01:02,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 15:03:27,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 15:03:53,Texto uno,No,Estudiante universitario,previo,virtual
+6/3/2023 15:19:24,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 15:44:09,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 15:51:29,Texto uno,No,Profesional graduado,previo,virtual
+6/3/2023 16:02:42,Texto dos,No,Bachiller,previo,virtual
+6/3/2023 16:22:52,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 16:32:02,Texto dos,Si,Bachiller,previo,virtual
+6/3/2023 16:59:44,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 17:14:34,Texto uno,No,Profesional graduado,previo,virtual
+6/3/2023 17:15:02,Texto dos,No,Estudiante universitario,previo,virtual
+6/3/2023 17:57:45,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 17:58:14,Texto dos,No,Estudiante universitario,previo,virtual
+6/3/2023 17:58:36,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 18:44:59,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 19:26:55,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 20:53:57,Texto dos,Si,Estudiante universitario,previo,virtual
+6/3/2023 20:54:37,Texto uno,Si,Estudiante universitario,previo,virtual
+6/3/2023 21:26:33,Texto uno,Si,Bachiller,previo,virtual
+6/3/2023 23:58:00,Texto uno,No,Estudiante universitario,previo,virtual
+6/3/2023 23:58:26,Texto uno,No,Estudiante universitario,previo,virtual
+6/3/2023 23:59:28,Texto dos,Si,Estudiante universitario,previo,virtual
+6/4/2023 12:36:21,Texto dos,Si,Estudiante universitario,previo,virtual
+6/4/2023 12:36:53,Texto dos,No,Profesional graduado,previo,virtual
+6/4/2023 12:37:26,Texto dos,Si,Estudiante universitario,previo,virtual
+6/4/2023 12:38:05,Texto dos,No,Profesional graduado,previo,virtual
+6/4/2023 12:40:12,Texto uno,Si,Bachiller,previo,virtual
+6/4/2023 13:05:20,Texto uno,Si,Bachiller,previo,virtual
+6/4/2023 14:44:50,Texto dos,Si,Estudiante universitario,previo,virtual
+6/4/2023 14:45:16,Texto uno,Si,Estudiante universitario,previo,virtual
+6/4/2023 14:45:47,Texto uno,Si,Profesional graduado,previo,virtual
+6/4/2023 16:01:02,Texto uno,No,Estudiante universitario,previo,virtual
+6/4/2023 21:44:38,Texto dos,Si,Bachiller,previo,virtual
+6/4/2023 21:45:08,Texto dos,No,Bachiller,previo,virtual
+6/4/2023 21:45:38,Texto uno,Si,Estudiante universitario,previo,virtual
+6/4/2023 21:46:34,Texto dos,Si,Bachiller,previo,virtual
+6/4/2023 21:47:00,Texto dos,Si,Estudiante universitario,previo,virtual
+6/4/2023 21:47:28,Texto uno,Si,Estudiante universitario,previo,virtual
+6/4/2023 23:58:21,Texto dos,Si,Estudiante universitario,previo,virtual
+6/4/2023 23:59:35,Texto dos,Si,Profesional graduado,previo,virtual
+6/5/2023 0:04:52,Texto dos,Si,Estudiante universitario,previo,virtual
+6/5/2023 0:06:30,Texto uno,Si,Estudiante universitario,previo,virtual
+6/5/2023 19:12:51,Texto uno,No,Profesional graduado,previo,virtual
+6/5/2023 19:59:59,Texto uno,No,Estudiante universitario,previo,virtual
+6/5/2023 20:00:49,Texto uno,Si,Estudiante universitario,previo,virtual
+6/5/2023 20:06:20,Texto dos,Si,Estudiante universitario,previo,virtual
+6/5/2023 20:06:36,Texto uno,Si,Estudiante universitario,previo,virtual
+6/5/2023 20:08:42,Texto dos,Si,Estudiante universitario,previo,virtual
+6/5/2023 20:09:25,Texto uno,No,Profesional graduado,previo,virtual
+6/5/2023 20:14:48,Texto uno,Si,Estudiante universitario,previo,virtual
+6/5/2023 20:15:34,Texto uno,Si,Estudiante universitario,previo,virtual
+6/5/2023 20:24:54,Texto uno,No,Profesional graduado,previo,virtual
+6/5/2023 20:29:12,Texto uno,Si,Estudiante universitario,previo,virtual
+6/5/2023 20:29:58,Texto uno,Si,Profesional graduado,previo,virtual
+6/5/2023 20:35:19,Texto uno,Si,Profesional graduado,previo,virtual
+6/5/2023 20:35:34,Texto dos,No,Estudiante universitario,previo,virtual
+6/5/2023 20:37:40,Texto dos,Si,Estudiante universitario,previo,virtual
+6/5/2023 20:46:56,Texto dos,Si,Profesional graduado,previo,virtual
+6/5/2023 20:48:15,Texto uno,No,Estudiante universitario,previo,virtual
+6/5/2023 20:55:54,Texto dos,Si,Estudiante universitario,previo,virtual
+6/5/2023 21:02:51,Texto dos,No,Profesional graduado,previo,virtual
+6/5/2023 21:12:44,Texto uno,Si,Profesional graduado,previo,virtual
+6/5/2023 21:19:39,Texto uno,No,Estudiante universitario,previo,virtual
+6/5/2023 21:21:44,Texto uno,Si,Profesional graduado,previo,virtual
+6/5/2023 21:26:49,Texto uno,Si,Profesional graduado,previo,virtual
+6/5/2023 21:46:38,Texto uno,Si,Estudiante universitario,previo,virtual
+6/5/2023 22:04:29,Texto uno,No,Estudiante universitario,previo,virtual
+6/5/2023 22:32:29,Texto uno,No,Profesional graduado,previo,virtual
+6/6/2023 6:36:50,Texto dos,Si,Profesional graduado,previo,virtual
+6/6/2023 9:38:12,Texto dos,Si,Estudiante universitario,previo,virtual
+6/6/2023 10:23:16,Texto uno,Si,Estudiante universitario,previo,virtual
+6/6/2023 13:42:40,Texto dos,Si,Estudiante universitario,previo,virtual
+6/6/2023 13:44:30,Texto dos,Si,Estudiante universitario,previo,virtual
+6/6/2023 14:30:59,Texto uno,No,Estudiante universitario,previo,virtual
+6/6/2023 14:32:08,Texto dos,Si,Estudiante universitario,previo,virtual
+6/6/2023 14:33:58,Texto dos,Si,Estudiante universitario,previo,virtual
+6/6/2023 14:36:45,Texto dos,Si,Estudiante universitario,previo,virtual
+6/6/2023 14:37:38,Texto dos,Si,Estudiante universitario,previo,virtual
+6/6/2023 14:38:39,Texto dos,Si,Estudiante universitario,previo,virtual
+6/6/2023 14:51:28,Texto uno,Si,Estudiante universitario,previo,virtual
+6/6/2023 14:51:41,Texto uno,Si,Estudiante universitario,previo,virtual
+6/6/2023 14:52:33,Texto uno,Si,Estudiante universitario,previo,virtual
+6/6/2023 14:53:45,Texto uno,Si,Estudiante universitario,previo,virtual
+6/6/2023 15:00:52,Texto uno,Si,Estudiante universitario,previo,virtual
+6/6/2023 15:02:17,Texto dos,Si,Estudiante universitario,previo,virtual
+6/6/2023 15:15:07,Texto dos,Si,Profesional graduado,previo,virtual
+6/6/2023 15:25:25,Texto uno,No,Bachiller,previo,virtual
+6/6/2023 15:57:05,Texto uno,Si,Profesional graduado,previo,virtual
+6/6/2023 15:57:34,Texto dos,No,Profesional graduado,previo,virtual
+6/6/2023 17:03:52,Texto uno,No,Profesional graduado,previo,virtual
+6/6/2023 17:04:09,Texto uno,No,Profesional graduado,previo,virtual
+6/7/2023 0:48:59,Texto dos,Si,Estudiante universitario,previo,virtual
+7/6/23 8:43,Texto dos,No,Bachiller,Previo,virtual
+6/3/2023 9:50:22,Texto dos,Si,Bachiller,post,Presencial
+6/3/2023 10:01:16,Texto dos,Si,Estudiante universitario,post,Presencial
+6/3/2023 10:02:09,Texto uno,Si,Profesional graduado,post,Presencial
+6/3/2023 10:02:44,Texto dos,No,Estudiante universitario,post,Presencial
+6/3/2023 10:04:56,Texto uno,Si,Estudiante universitario,post,Presencial
+6/3/2023 10:06:22,Texto dos,No,Estudiante universitario,post,Presencial
+6/3/2023 10:07:06,Texto uno,No,Bachiller,post,Presencial
+6/3/2023 10:07:44,Texto uno,Si,Bachiller,post,Presencial
+6/3/2023 10:08:48,Texto dos,No,Bachiller,post,Presencial
+6/3/2023 10:19:32,Texto dos,No,Bachiller,post,Presencial
+6/3/2023 10:20:04,Texto uno,No,Bachiller,post,Presencial
+6/3/2023 10:20:43,Texto dos,No,Estudiante universitario,post,Presencial
+6/3/2023 10:30:23,Texto dos,Si,Bachiller,post,Presencial
+6/3/2023 10:32:03,Texto uno,Si,Profesional graduado,post,Presencial
+6/3/2023 10:39:56,Texto dos,Si,Estudiante universitario,post,Presencial
+6/3/2023 10:40:37,Texto uno,Si,Bachiller,post,Presencial
+6/3/2023 10:42:15,Texto dos,No,Bachiller,post,Presencial
+6/3/2023 11:04:30,Texto dos,Si,Estudiante universitario,post,Presencial
+6/3/2023 11:22:45,Texto dos,Si,Estudiante universitario,post,Presencial
+6/3/2023 11:53:49,Texto dos,No,Estudiante universitario,post,Presencial
+6/3/2023 12:20:49,Texto dos,Si,Estudiante universitario,post,Presencial
+6/3/2023 13:25:41,Texto uno,Si,Estudiante universitario,post,Presencial
+6/3/2023 13:26:41,Texto dos,No,Profesional graduado,post,Presencial
+6/3/2023 13:33:03,Texto dos,Si,Estudiante universitario,post,Presencial
+6/3/2023 13:33:45,Texto uno,Si,Bachiller,post,Presencial
+6/3/2023 13:42:08,Texto uno,Si,Estudiante universitario,post,Presencial
+6/3/2023 14:03:01,Texto dos,Si,Bachiller,post,Presencial
+6/3/2023 15:00:31,Texto uno,No,Bachiller,post,Presencial
+6/3/2023 15:01:45,Texto dos,Si,Estudiante universitario,post,Presencial
+6/3/2023 15:04:22,Texto dos,Si,Bachiller,post,Presencial
+6/3/2023 15:04:56,Texto dos,Si,Profesional graduado,post,Presencial
+6/3/2023 15:41:53,Texto uno,No,Estudiante universitario,post,Presencial
+6/3/2023 15:42:05,Texto dos,No,Bachiller,post,Presencial
+6/3/2023 15:54:12,Texto uno,Si,Estudiante universitario,post,Presencial
+6/3/2023 16:16:14,Texto uno,No,Bachiller,post,Presencial
+6/3/2023 16:23:34,Texto uno,No,Estudiante universitario,post,Presencial
+6/3/2023 16:32:34,Texto uno,No,Bachiller,post,Presencial
+6/3/2023 16:46:49,Texto dos,No,Estudiante universitario,post,Presencial
+6/3/2023 17:00:23,Texto dos,Si,Estudiante universitario,post,Presencial
+6/3/2023 19:44:12,Texto uno,No,Bachiller,post,Presencial
+6/3/2023 20:32:01,Texto uno,Si,Estudiante universitario,post,Presencial
+6/3/2023 20:41:27,Texto dos,Si,Estudiante universitario,post,Presencial
+6/3/2023 21:00:23,Texto dos,No,Profesional graduado,post,Presencial
+6/3/2023 22:39:54,Texto dos,Si,Estudiante universitario,post,Presencial
+6/3/2023 22:42:34,Texto uno,Si,Estudiante universitario,post,Presencial
+6/3/2023 23:58:59,Texto dos,Si,Estudiante universitario,post,Presencial
+6/4/2023 12:35:47,Texto uno,Si,Estudiante universitario,post,Presencial
+6/4/2023 12:39:33,Texto uno,No,Estudiante universitario,post,Presencial
+6/4/2023 21:48:03,Texto dos,Si,Estudiante universitario,post,Presencial
+6/4/2023 22:01:01,Texto dos,Si,Bachiller,post,Presencial
+6/4/2023 22:04:59,Texto uno,No,Estudiante universitario,post,Presencial
+6/4/2023 22:07:43,Texto uno,Si,Bachiller,post,Presencial
+6/5/2023 13:09:37,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:10:31,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:11:38,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:13:37,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 13:15:50,Texto dos,Si,Profesional graduado,post,Presencial
+6/5/2023 13:16:20,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:17:54,Texto dos,No,Profesional graduado,post,Presencial
+6/5/2023 13:19:36,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:19:49,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 13:19:58,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:21:56,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:23:06,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:25:07,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:25:15,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:25:22,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 13:27:52,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 13:28:07,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:28:32,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 13:29:03,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:31:23,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:31:36,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:32:48,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 13:34:54,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 13:36:58,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:38:30,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:39:46,Texto uno,Si,Bachiller,post,Presencial
+6/5/2023 13:42:16,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 13:47:40,Texto dos,No,Profesional graduado,post,Presencial
+6/5/2023 13:48:32,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:49:03,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:50:55,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 13:52:40,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 13:54:13,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 13:59:25,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:59:38,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 13:59:49,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:03:23,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:03:33,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:06:27,Texto dos,No,Bachiller,post,Presencial
+6/5/2023 14:06:41,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:08:44,Texto uno,Si,Bachiller,post,Presencial
+6/5/2023 14:12:27,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 14:12:40,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:13:01,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 14:13:19,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:18:21,Texto uno,Si,Profesional graduado,post,Presencial
+6/5/2023 14:18:29,Texto uno,No,Profesional graduado,post,Presencial
+6/5/2023 14:19:07,Texto dos,No,Profesional graduado,post,Presencial
+6/5/2023 14:21:12,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:21:30,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 14:24:01,Texto uno,Si,Profesional graduado,post,Presencial
+6/5/2023 14:27:10,Texto uno,No,Bachiller,post,Presencial
+6/5/2023 14:29:23,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:31:16,Texto dos,No,Profesional graduado,post,Presencial
+6/5/2023 14:34:03,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:34:39,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:34:52,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:37:23,Texto dos,Si,Bachiller,post,Presencial
+6/5/2023 14:37:36,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:40:57,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:42:16,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:44:27,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:45:48,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:46:26,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:50:02,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:50:11,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:53:37,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 14:56:18,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 14:57:02,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:59:34,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 14:59:40,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:00:17,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:00:43,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:02:20,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 15:02:56,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 15:03:42,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:06:29,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 15:06:38,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 15:07:09,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 15:09:29,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:12:41,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:12:50,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:13:00,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:13:07,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:15:34,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:15:42,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:19:27,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:38:22,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:41:20,Texto uno,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:41:28,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 15:42:49,Texto dos,Si,Profesional graduado,post,Presencial
+6/5/2023 15:43:11,Texto uno,No,Bachiller,post,Presencial
+6/5/2023 15:45:21,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:45:36,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:47:45,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 15:47:56,Texto dos,Si,Profesional graduado,post,Presencial
+6/5/2023 15:50:56,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:53:28,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:56:16,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 15:56:23,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 16:00:11,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 16:00:20,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 16:00:27,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 16:00:35,Texto dos,Si,Estudiante universitario,post,Presencial
+6/5/2023 16:06:30,Texto uno,Si,Profesional graduado,post,Presencial
+6/5/2023 16:08:10,Texto dos,Si,Profesional graduado,post,Presencial
+6/5/2023 16:10:52,Texto dos,No,Estudiante universitario,post,Presencial
+6/5/2023 16:15:29,Texto uno,No,Estudiante universitario,post,Presencial
+6/5/2023 16:18:56,Texto dos,No,Profesional graduado,post,Presencial
+6/5/2023 18:20:03,Texto dos,No,Estudiante universitario,post,Presencial
+6/6/2023 13:22:43,Texto dos,Si,Estudiante universitario,post,Presencial
+6/6/2023 13:28:12,Texto dos,Si,Estudiante universitario,post,Presencial
+6/6/2023 14:37:44,Texto dos,No,Profesional graduado,post,Presencial
+6/6/2023 14:48:03,Texto uno,Si,Estudiante universitario,post,Presencial
+6/6/2023 16:10:16,Texto uno,No,Bachiller,post,Presencial
+6/6/2023 16:32:54,Texto uno,Si,Bachiller,post,Presencial
+6/6/2023 17:04:44,Texto uno,Si,Profesional graduado,post,Presencial
+6/6/2023 17:05:49,Texto uno,No,Profesional graduado,post,Presencial
+6/6/2023 18:04:01,Texto uno,No,Bachiller,post,Presencial
+6/6/2023 18:05:35,Texto uno,Si,Bachiller,post,Presencial
+6/6/2023 18:07:23,Texto uno,Si,Bachiller,post,Presencial
+6/6/2023 18:08:42,Texto dos,No,Bachiller,post,Presencial
+6/6/2023 18:20:31,Texto uno,No,Profesional graduado,post,Presencial
